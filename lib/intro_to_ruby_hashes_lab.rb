@@ -3,14 +3,14 @@ def new_hash
 end
 
 def my_hash
-  {"mom" => 40}
+  { "Josh" => "absent" }
 end
 
 def pioneer
-  {:name => "Grace Hopper"}
+  { name: "Grace Hopper" }
 end
 
 
 def id_hash_generator(number)
-  {:id assigned to the provided number
+  { id: number }
 end
